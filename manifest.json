@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-formalizer",
+	"name": "Formalizer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Spice up your notes",
+	"author": "Alyce Osbourne",
+	"authorUrl": "https://github.com/AlyceOsbourne/",
+	"isDesktopOnly": false
+}
